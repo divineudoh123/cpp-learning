@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IntroToIostream.vcxproj" Id="6bc311e3-862b-47e0-acbe-2fa758a617c2" />
+</Solution>
