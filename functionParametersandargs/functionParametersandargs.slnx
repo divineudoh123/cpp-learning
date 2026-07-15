@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="functionsVoid.vcxproj" Id="9f6e022c-ea39-461a-90f8-1c9184008756" />
+  <Project Path="functionParametersandargs.vcxproj" />
 </Solution>
